@@ -14,12 +14,13 @@ Follow these steps to explore and use the project:
 
 Clone the Repository:
 
-Copy code
 git clone https://github.com/AhmedMansour1070/Traffic-Sign-Classification.git
 cd Traffic-Sign-Classification
+
 Install Dependencies:
 
 pip install -r requirements.txt
+
 Execute the provided Jupyter Notebook or Python script to train and test the traffic sign classification model.
 
 ## Model Applications
